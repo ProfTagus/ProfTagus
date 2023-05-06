@@ -5,6 +5,9 @@
 
 😄 **Conto com vocês!**
 
+![image](https://user-images.githubusercontent.com/132782626/236645828-3d3fa6aa-cc3d-478c-a7f6-e9b18c5a0c96.png)
+
+
 <!--
 **ProfTagus/ProfTagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
